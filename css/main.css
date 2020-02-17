@@ -1,26 +1,7 @@
-/*
- @Author: ThemoGraphics
- @URL: http://ThemoGraphics.com
- This file contains the styling for the actual theme, this
- is the file you need to edit to change the look of the theme.
- 
- This files contents are outlined below.
- 01.	Theme Reset Style
- 02.	Global Elements
- 03.	Menu
- 04.	Social
- 05.	Article
- 06.	Posts
- 07.	Responsive
- 08.	Widgets
- 09.	Flexslider
- 10.	Grid
-*/
-
 /* =============================================
 			Theme Reset Style
 ============================================= */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,700,900|Raleway:400,600,800|Yellowtail);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700,900|Raleway:400,600,800|Yellowtail);
 * {
 	margin: 0px;
 	padding: 0px;
